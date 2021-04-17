@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94133" started-at="2021-04-11T06:37:14Z" finished-at="2021-04-11T06:38:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94133" started-at="2021-04-11T06:37:14Z" finished-at="2021-04-11T06:38:48Z">
+      <class name="tests.LoginTestTestNG">
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="launchURL" is-config="true" duration-ms="34933" started-at="2021-04-11T12:07:14Z" finished-at="2021-04-11T12:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="LoginScenario()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="LoginScenario" duration-ms="15368" started-at="2021-04-11T12:07:49Z" finished-at="2021-04-11T12:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginScenario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="10598" started-at="2021-04-11T12:08:04Z" finished-at="2021-04-11T12:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="launchURL" is-config="true" duration-ms="11658" started-at="2021-04-11T12:08:15Z" finished-at="2021-04-11T12:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="forgotUPScenario()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="forgotUPScenario" duration-ms="8078" started-at="2021-04-11T12:08:27Z" finished-at="2021-04-11T12:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotUPScenario -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.LoginTestTestNG@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="13479" started-at="2021-04-11T12:08:35Z" finished-at="2021-04-11T12:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTestTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
