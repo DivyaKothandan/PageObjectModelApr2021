@@ -19,5 +19,11 @@ public class HomePage {
 		
 		System.out.println("Contentlink clicked");
 	}
+	
+	public void testcontentLinkclick() {
+		driver.findElement(ContentLink).click();
+		
+		System.out.println("Test Contentlink clicked");
+	}
 
 }
